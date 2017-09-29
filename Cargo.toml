@@ -1,0 +1,7 @@
+[package]
+name = "comprustion"
+version = "0.1.0"
+authors = ["Alex Vig <jalexvig@gmail.com>"]
+
+[dependencies]
+bit-vec = "0.4.4"
